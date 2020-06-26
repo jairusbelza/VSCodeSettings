@@ -1,0 +1,30 @@
+## List of Extensions
+
+- Live Server
+- Live Sass Compiler
+- HTML CSS Support
+- Auto Rename Tag
+- Prettier
+- JS (ES6) Snippets
+- Turbo Console Log
+- Indent Rainbow
+- Bracket Pair Colorizer
+- Code Spell Checker
+- REST Client
+- GitLens
+- Auto-Open Markdown Preview
+- ES7 React/Redux Snippets
+- Vetur
+- Docker
+- Angular Snippets
+- Community Material Theme
+- Dart
+- ESLint
+- Flutter
+- Material Theme
+- Material Theme Icons
+- open in browser
+- Python
+- Remote - WSL
+- vscode-faker
+- vscode-icons
